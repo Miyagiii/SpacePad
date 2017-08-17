@@ -1,0 +1,14 @@
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\bin\Debug\SpacePad.exe.config
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\bin\Debug\SpacePad.exe
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\bin\Debug\SpacePad.pdb
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.csprojResolveAssemblyReference.cache
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.Form1.resources
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.Properties.Resources.resources
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.csproj.GenerateResource.Cache
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.exe
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.pdb
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\bin\Debug\SpacePad.exe.manifest
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\bin\Debug\SpacePad.application
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.TrustInfo.xml
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.exe.manifest
+C:\Users\Momo_ex2\Documents\Visual Studio 2015\Projects\SpacePad\SpacePad\obj\Debug\SpacePad.application
